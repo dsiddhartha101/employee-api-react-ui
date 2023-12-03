@@ -1,0 +1,50 @@
+[
+    {
+        "employee_id": 8,
+        "first_name": "Linda",
+        "last_name": "Martinez",
+        "email": "linda.martinez@example.com",
+        "department": "Customer Support",
+        "position": "Customer Support Specialist",
+        "salary": 55000,
+        "hire_date": "2022-08-22",
+        "address": {
+            "street": "555 Redwood St",
+            "city": "Miami",
+            "state": "FL",
+            "zip_code": "33101"
+        }
+    },
+    {
+        "employee_id": 9,
+        "first_name": "Richard",
+        "last_name": "Garcia",
+        "email": "richard.garcia@example.com",
+        "department": "IT",
+        "position": "IT Manager",
+        "salary": 90000,
+        "hire_date": "2022-09-10",
+        "address": {
+            "street": "666 Oakwood St",
+            "city": "Houston",
+            "state": "TX",
+            "zip_code": "77001"
+        }
+    },
+    {
+        "employee_id": 10,
+        "first_name": "Emily",
+        "last_name": "Harris",
+        "email": "emily.harris@example.com",
+        "department": "Legal",
+        "position": "Legal Counsel",
+        "salary": 85000,
+        "hire_date": "2022-10-05",
+        "address": {
+            "street": "777 Elmwood St",
+            "city": "Denver",
+            "state": "CO",
+            "zip_code": "80201"
+        }
+    }
+]

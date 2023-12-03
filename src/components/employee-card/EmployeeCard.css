@@ -1,0 +1,27 @@
+.employee-card{
+    max-width: 20vw;
+    height: 5.5rem;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 3px;
+}
+
+.emp-name{
+    margin-top: 2px;
+}
+
+.designation-dept{
+    font-size: 13px;
+    margin-top: 1px;
+}
+
+.emp-contact{
+    text-align: right;
+    align-content: end;
+    font-weight: 200;
+    font-size: 12px;
+    margin-top: 10px;
+    /* border: 1px solid black; */
+}
